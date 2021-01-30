@@ -1,0 +1,1 @@
+from nltk.wsd import lesk
